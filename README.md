@@ -1,9 +1,4 @@
-# CustomFont
- Coustom Font For TextView &amp; EditText &amp; Button &amp; CheckBox &amp; readioButton
- Use Fonts Licensing.
- 
- Set Font For View :TextView , EditText ,Button ,RadioButton ,CheckBox app:fontName="IRANSansMobile_Medium"
- 
+
  بدون استفاده از کتابخانه بدین شکل میباشد :
  
  ![alt text](https://github.com/skhanbeiki/CustomFont/blob/master/1.jpg)
